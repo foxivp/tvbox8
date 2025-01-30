@@ -12,14 +12,7 @@
   ],
   "sites": [
    
-    {
-      "key": "MiMei",
-      "name": "\uD83D\uDD1E 迷妹 | 珍惜",
-      "type": 3,
-      "api": "csp_MiMei",
-      "searchable": 1,
-      "filterable": 1
-    },
+  
    
     {
       "key": "美少女",
