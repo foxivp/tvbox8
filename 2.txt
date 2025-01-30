@@ -198,7 +198,7 @@
       "name": "*白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php"
-    },
+    }
 
   ],
   "parses": [
